@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+}
+
+.Top-Banner {
+    background-image: url(images/topbanner.jpg);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 85%;
+}
+
+.follow-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 8px 30px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 800;
+}
+
+.Dream-big {
+    padding-top: 10%;
+}
